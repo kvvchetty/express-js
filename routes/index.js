@@ -15,5 +15,15 @@ router.get('/contact', (req, res) => {
     console.log('Request for contact page recieved')
     res.render('contact')
 })
+
+router.get('/loss', (req, res) => {
+    console.log('Request for lossprevention page recieved')
+    res.render('loss')
+})
+
+router.get('/balance', (req, res) => {
+    console.log('Request for balance page recieved')
+    res.render('balance')
+})
  
 module.exports = router
