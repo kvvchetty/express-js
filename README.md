@@ -1,5 +1,6 @@
 # express-js
 EJS static page server
+<<<<<<< HEAD
 
 
 Express is a framework to create a website with Node. Just like any website creation, the first step to create an Express website is to set up an template and routing. EJS is an easy templating language to generate HTML with Javascript. It works well with Node without having to learn more complicated front-end frameworks like Angular or React.
@@ -45,3 +46,5 @@ Dependencies are below. For the front-end, we will use bootstrap 4 which require
 
 Please see the folder for code content.
 
+=======
+>>>>>>> a1376bdd2f22abe114096b7a222c718cee89f1c5
